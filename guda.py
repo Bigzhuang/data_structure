@@ -1,4 +1,4 @@
-l=['dazhaung','guda','hehe','wow']
+l=range(10)
 g=0
 for i in l:
     g+=1
